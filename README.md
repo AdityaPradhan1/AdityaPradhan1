@@ -4,6 +4,7 @@
 [![GitHub AdityaPradhan1](https://img.shields.io/github/followers/AdityaPradhan1?label=follow&style=social)](https://github.com/AdityaPradhan1)&nbsp;
  <a href="https://www.linkedin.com/in/adityapradhan1/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="mailto:adipra99@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://adityapradhan1.github.io/resume/"><img alt="Gmail" src="https://img.shields.io/badge/cv-pdf-green.svg" /></a> &nbsp;
 
 
 
