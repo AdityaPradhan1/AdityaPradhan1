@@ -1,5 +1,5 @@
 ![Hi, I'm Aditya 👋 Welcome to my Github 🚀](https://github.com/AdityaPradhan1/AdityaPradhan1/raw/main/assets/github.gif)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=adityapradhan1)
+<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=adityapradhan1) -->
 ![profile count](https://komarev.com/ghpvc/?username=AdityaPradhan1&color=red)&nbsp;
 [![GitHub AdityaPradhan1](https://img.shields.io/github/followers/AdityaPradhan1?label=follow&style=social)](https://github.com/AdityaPradhan1)&nbsp;
  <a href="https://www.linkedin.com/in/adityapradhan1/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;
